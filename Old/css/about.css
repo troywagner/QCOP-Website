@@ -1,0 +1,24 @@
+
+.row1{
+	width: 100%;
+	margin-bottom: 1%;
+	float: none;
+}
+.row2{
+	width: 100%;
+	float: none;
+}
+.row_item{
+	width: 33%;
+	border: 1px solid black;
+	display: inline-block;
+	background-color: white;
+}
+.row_wrapper{
+	width: 98%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
