@@ -41,6 +41,7 @@
 .team_img{
 	width: 95%;
 	border-radius: 50%;
+	max-width: 180px;
 }
 .name{
 	color:white;
