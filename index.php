@@ -26,73 +26,9 @@
 
 </head>
 <body>
-
-<!--
-======================================================
-=================== NAVBAR ===========================
-======================================================
--->
-
-<div class="navbar  navbar-inverse navbar-fixed-top" role="navigation" style="background-color:#000000;">
-	<div class="container">
-		<div class="navbar-header" style="height:75px;">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="margin-top:20px;">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="#">
-				<img src="./imgs/logo.png" class="navBar_logo" style="">
-				<img src="./imgs/words.png" class="navbar_text"/>
-			</a>
-		</div>
-		<div class="navbar-collapse collapse" class="">
-			<ul class="nav navbar-nav navbar-right" >
-				<li class="">
-					<a href="#about" style="padding:0px 0px;" class="navbar_item" id="about_item">
-						
-					</a>
-				</li>
-				<li class="">
-					<a href="./speakers.html" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
-						
-					</a>
-				</li>
-				<li class="">
-					<a href="#sponsors" style="padding:0px 0px;" class="navbar_item" id="sponsors_item">
-		
-					</a>
-				</li>
-				<!--
-				<li class="">
-					<a href="./index.php" style="padding:0px 0px;">
-						<img src="./imgs/schedule_icon.png" class="navbar_item" id="schedule_navbar_item"/>
-						<img src="./imgs/schedule.png" class="navbar_hover_item" id="schedule_navbar_item_hover"/>
-					</a>
-				</li>
-				-->
-				<li class="">
-					<a href="./attend.html" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
-						
-					</a>
-				</li>
-				<li class="">
-					<a href="./connect.html" style="padding:0px 0px;" class="navbar_item" id="connect_item">
-						
-					</a>
-				</li>
-
-			</ul>
-		</div>
-	</div>
-</div>
-
-<!--
-======================================================
-================= END OF NAVBAR ======================
-======================================================
--->
+<?php
+	include_once('./include/navbar.php');
+?>
 
 
 <div class="top_wrapper">
@@ -135,7 +71,7 @@
 				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">THEME  |  CONNECT</h1>
 			</div>
 			<div class="col-sm-8 col-sm-offset-2">
-				<p class="about_text" style="font-size:16px;font-family: 'Allerta', sans-serif;">The theme for QCOP 2015 is CONNECT — an experience that challenges delegates to not only reflect upon important ideas surrounding philanthropy, but to &#34;connect&#34; to these principles in their daily lives. QCOP is a dynamic forum for the humanities, social activism and the understanding of both personal and corporate social responsibility.</p>
+				<p class="about_text" style="font-size:16px;font-family: 'Allerta', sans-serif;">The theme for QCOP 2015 is CONNECT &#8211; an experience that challenges delegates to not only reflect upon important ideas surrounding philanthropy, but to &#34;connect&#34; to these principles in their daily lives. QCOP is a dynamic forum for the humanities, social activism and the understanding of both personal and corporate social responsibility.</p>
 			</div>
 
 		</div>
