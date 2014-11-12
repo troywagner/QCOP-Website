@@ -125,7 +125,26 @@
 		-->
 		<div class="row" style="margin-top:10%;">
 			<div class="col-sm-12 text-center">
-				<h1 style="color:white;">Thanks for applying!</h1>
+					
+					<h1 style="color:white;">
+				<?php
+					$c = $_GET['c'];
+					$c = contentCheck($c);
+					if($c == "early"){
+						echo 'Thanks for signing up early!';
+					}else if($c == "email"){
+						echo 'Thanks for the message!';
+					}else{
+						echo 'Error';
+					}
+					function contentCheck($data){
+						$data = trim($data);
+						$data = addslashes($data);
+						$data = htmlspecialchars($data);
+						return $data;
+				  	}
+				?>
+				</h1>
 			</div>
 		</div>
 		<div style="width:100%;height:20px;"></div>

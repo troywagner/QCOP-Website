@@ -12,9 +12,9 @@
 
 	mysqli_query($con, "INSERT INTO email (name, email) VALUES ('$name','$email')") or die("error: unable to sign up");
 
-	echo '<script>window.location.replace("../thanks.html");</script>';
-	header('Location: http://www.qcop.ca/thanks.html');
-	die("<a href='../thanks.html'>Return Home</a>");
+	echo '<script>window.location.replace("../thanks.php?c=early");</script>';
+	header('Location: http://www.qcop.ca/thanks.php?c=early');
+	die("<a href='../thanks.php?c=early'>Return Home</a>");
 
 	function contentCheck($data){
 		$data = trim($data);
