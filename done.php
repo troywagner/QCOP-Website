@@ -59,7 +59,8 @@
 	include_once('./include/conn.php');
 
 	mysqli_query($con, "INSERT INTO apps (name, email, school, major, gender, dType, age, return, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp) VALUES 
-										 ('$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$')") or die("Error 001");
+										 ('$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp')") or die("Error 001");
+	
 	
 	function contentCheck($data){
 		$data = trim($data);
