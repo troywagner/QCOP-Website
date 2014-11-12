@@ -61,10 +61,10 @@
 		</div>
 		<div class="row" style="margin-top:10px;">
 			<div class="col-sm-12">
-				<div class="about_wrapper" style="">
+				<div class="about_wrapper" style="background-color:white;">
 					<div class="about_buffer">
 
-						<form class="form-horizontal" role="form">
+						<form class="form-horizontal" role="form" action="./done.php" method="post">
 							<div class="form-group">
 								
 								<label class="col-sm-2 control-label">Full Name:</label>

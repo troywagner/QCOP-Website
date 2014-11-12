@@ -123,8 +123,8 @@
 			</div>
 			<div class="row cardRow">
 
-				<div class="col-sm-6" style="">
-					<a href="#">
+				<div class="col-sm-6" style="float:left;">
+					<a href="http://ca.linkedin.com/pub/river-habermehl-hatt/50/8b0/840">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -150,8 +150,8 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6" style="">
-					<a href="#">
+				<div class="col-sm-6" style="float:left;">
+					<a href="https://www.linkedin.com/pub/heather-evans/62/830/646">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -179,8 +179,8 @@
 				</div>
 				
 
-				<div class="col-sm-6" style="">
-					<a href="#">
+				<div class="col-sm-6" style="float:left;">
+					<a href="https://www.linkedin.com/pub/zoe-keirstead/3b/292/6a0">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -206,8 +206,35 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6" style="">
-					<a href="#">
+				<div class="col-sm-6" style="float:left;">
+					<a href="http://ca.linkedin.com/pub/vivian-li/6b/305/153">
+						<div class="panel panel-default panelt">
+							<div class="panel-body">
+								<div class="col-sm-6 text-left">
+									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+								</div>
+								<div class="col-sm-6 text-left">
+
+									<label class="name">Vivian Li</label><br/>
+									<label class="person_label">Position:</label><br/>
+									<label class="position">Sponsorship Coordinator</label><br/>
+									<label class="person_label">Major:</label><br/>
+									<label class="major">Commerce</label><br/>
+									
+								</div>
+								<div class="col-sm-12 text-left">
+									<br/>
+									<label class="person_label">Something about Vivian:</label><br/>
+									<label class="skill">Has the ability to remember the smallest of details about people.</label><br/>
+									<label class="person_label">Why QCOP?</label><br/>
+									<label class="skill">The perfect opportunity to work with a group of awesome philanthropists.</label>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-6" style="float:left;">
+					<a href="https://www.linkedin.com/pub/maureen-marful/49/633/247">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -234,8 +261,8 @@
 					</a>
 				</div>
 
-				<div class="col-sm-6" style="">
-					<a href="#">
+				<div class="col-sm-6" style="float:left;">
+					<a href="https://www.linkedin.com/in/sarahhannay">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -280,7 +307,7 @@
 								<div class="col-sm-12 text-left">
 									<br/>
 									<label class="person_label">Something about Catherine:</label><br/>
-									<label class="skill">I&#39;ve been tap dancing for over ten years now.</label><br/>
+									<label class="skill">Can name 50 states in under 15 seconds.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">I believe that everyone has the power to make a positive difference in the world no matter how big or small. I have never been in an environment with so many motivated, like-minded individuals before! QCOP inspires.</label>
 								</div>
@@ -334,7 +361,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Keith:</label><br/>
+									<label class="person_label">Something about Hamy:</label><br/>
 									<label class="skill"> I&#39;ve never lived in the same city for more than 2 years at a time.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">Why not?</label>
@@ -345,7 +372,7 @@
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="https://www.linkedin.com/in/gmatichuk">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -373,7 +400,7 @@
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="https://www.linkedin.com/in/stynatao">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -390,7 +417,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Styna:</label><br/>
 									<label class="skill">I taught myself how to make jewelry, mostly for fun, sometimes for profit.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">It&#39;s a conference that seeks to bring philanthropy into everyone&#39;s lives, no matter what your passion is. It inspires people to do more good in the world, a little or a big step at a time, at your own pace.</label>
@@ -401,7 +428,7 @@
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="https://www.linkedin.com/pub/jakob-pugi/60/819/a88">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -418,7 +445,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Jakob:</label><br/>
 									<label class="skill">I play for the Queen&#39;s Varsity Ultimate team. I also just generally love tossing a disc (hit me up).</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">An amazing team and an amazing conference that brings together people from all backgrounds to learn more about a mutual passion. Also, we try to make the world just a bit better.</label>
@@ -445,7 +472,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Carmen:</label><br/>
 									<label class="skill">I eat pizza backwards.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">Through QCOP, I hope to encourage others to make positive changes in their everyday lives, in everything that they do. It helps that I work with such an incredibly hard-working and passionate team!</label>
@@ -472,7 +499,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Rafiq:</label><br/>
 									<label class="skill">I&#39;m addicted to sports betting.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">QCOP has allowed and inspired me to follow my passions. Working with such an awesome team of like-minded individuals to inspire university students to enter the professional environment with the goal of doing good and making the world a better place has been nothing short of exceptional.</label>
@@ -482,7 +509,7 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="https://www.linkedin.com/in/lexiewing">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -499,7 +526,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Lexi:</label><br/>
 									<label class="skill">I have a phobia of ketchup (which may be more weird than fun…)</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">QCOP is a phenomenal team who work towards creating high-impact opportunities for other individuals who share similar passions, so what&#39;s not to love? It&#39;s amazing to see the positive impact QCOP has on the Queen&#39;s campus and beyond.</label>
@@ -509,7 +536,7 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="http://ca.linkedin.com/pub/brandon-yau/60/9a8/a19">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -526,7 +553,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Brandon:</label><br/>
 									<label class="skill">I can clear over 120 lines in Tetris in 2 minutes.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">After attending QCOP 2014, I fell in love with the powerful impact that is leaves on its delegates. It is truly a conference like no other!</label>
@@ -536,7 +563,7 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="https://www.linkedin.com/in/leahwatson">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -553,7 +580,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Leah:</label><br/>
 									<label class="skill"> I&#39;ve volunteered with Bopoma Villages in Zimbabwe for the past 5 years, and can speak a bit of the local language, chiShona.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">After leaving last year&#39;s conference inspired and challenged, I knew right away I had to be involved this year. I love meeting passionate students from all over Canada and can&#39;t wait to get to know the 2015 delegates!</label>
@@ -581,7 +608,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Danielle:</label><br/>
 									<label class="skill">I didn&#39;t think that QCOP was pronounced Q-C-O-P when I first heard of it...</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">As a kid I always dreamed of saving the world. I now realize that small changes can have a big impact. QCOP is a perfect way to do good, feel good, and spread good.</label>
@@ -609,7 +636,7 @@
 								</div>
 								<div class="col-sm-12 text-left">
 									<br/>
-									<label class="person_label">Something about Graeme:</label><br/>
+									<label class="person_label">Something about Julie:</label><br/>
 									<label class="skill">I&#39;ve been tap dancing for over ten years now.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">I believe that everyone has the power to make a positive difference in the world no matter how big or small. I have never been in an environment with so many motivated, like-minded individuals before! QCOP inspires.</label>
@@ -619,8 +646,60 @@
 					</a>
 				</div>
 
+				<div class="col-sm-6" style="">
+					<a href="#">
+						<div class="panel panel-default panelt">
+							<div class="panel-body">
+								<div class="col-sm-6 text-left">
+									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+								</div>
+								<div class="col-sm-6 text-left">
 
+									<label class="name">Caroline Marful</label><br/>
+									<label class="person_label">Position:</label><br/>
+									<label class="position">Frosh Rep</label><br/>
+									<label class="person_label">Major:</label><br/>
+									<label class="major">Politics</label><br/>
+									
+								</div>
+								<div class="col-sm-12 text-left">
+									<br/>
+									<label class="person_label">Something about Caroline:</label><br/>
+									<label class="skill">I have been a competitive dancer for over ten years and love musicals.</label><br/>
+									<label class="person_label">Why QCOP?</label><br/>
+									<label class="skill">I have always loved to volunteer and being new to Queen’s, I knew I wanted to get involved right away. I thought that the best place to start was by giving back on a team of enthusiastic and like&#8211;minded people.</label>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-6" style="">
+					<a href="https://www.linkedin.com/in/abhitsahota">
+						<div class="panel panel-default panelt">
+							<div class="panel-body">
+								<div class="col-sm-6 text-left">
+									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+								</div>
+								<div class="col-sm-6 text-left">
 
+									<label class="name">Abhit Sahota</label><br/>
+									<label class="person_label">Position:</label><br/>
+									<label class="position">Frosh Rep</label><br/>
+									<label class="person_label">Major:</label><br/>
+									<label class="major">Commerce</label><br/>
+									
+								</div>
+								<div class="col-sm-12 text-left">
+									<br/>
+									<label class="person_label">Something about Abhit:</label><br/>
+									<label class="skill">Won't eat fruit if it's touching another fruit.</label><br/>
+									<label class="person_label">Why QCOP?</label><br/>
+									<label class="skill">QCOP is an awesome team  of highly motivated individuals who share a similar vision of making the local, and broader community a better place. Can&#39;t wait to the see the results and share this fantastic experience with the team, and all the delegates!</label>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
 
 
 

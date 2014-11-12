@@ -57,11 +57,27 @@
 	$rp = contentCheck($rp);
 
 	include_once('./include/conn.php');
+	$code = genCode();
+	mysqli_query($con, "INSERT INTO apps (code, name, email, school, major, gender, dType, age, returnD, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp, result) VALUES 
+										 ('$code', '$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp','')") or die("Error 001");
+	
+	function genCode(){
+		$s = "";
+		$found = 0;
+		while($found == 0){
+			$s = "";
+			for ( $i = 0 ; $i < 20 ; $i++ ){
+				$s .= rand(0,10);
+			}
+			include_once('./include/conn.php');
+			$result = mysqli_query($con, "SELECT * FROM apps WHERE code='$s'");
+			if(mysqli_num_rows($result)==0){
+				return $s;
+			}
 
-	mysqli_query($con, "INSERT INTO apps (name, email, school, major, gender, dType, age, return, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp) VALUES 
-										 ('$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp')") or die("Error 001");
-	
-	
+		}
+		return $s;
+	}
 	function contentCheck($data){
 		$data = trim($data);
 		$data = addslashes($data);
