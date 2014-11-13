@@ -128,7 +128,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Riv.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -238,7 +238,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Maureen.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -567,7 +567,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Leah.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -651,7 +651,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Caroline.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -678,7 +678,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Abhit.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
