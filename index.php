@@ -142,7 +142,7 @@
 								<div class="col-sm-12 text-left">
 									<br/>
 									<label class="person_label">Something about River:</label><br/>
-									<label class="skill">Recently spent four months in Helsinki, Finland where I befriended a wolf and some reindeer.</label><br/>
+									<label class="skill">Recently spent four months living in Helsinki, Finland.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">QCOP is about challenging the status quo and encouraging all participants to better themselves and the world we live in. We all have the power to create change, and QCOP seeks to help us all realize that.</label>
 								</div>
@@ -282,7 +282,7 @@
 									<label class="person_label">Something about Sarah:</label><br/>
 									<label class="skill"> I have lived in Switzerland and Thailand.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
-									<label class="skill">Because I am passionate about philanthropic endeavors – I believe they are a powerful way to make the world a better place.</label>
+									<label class="skill">Because I am passionate about philanthropic endeavors &#8211; I believe they are a powerful way to make the world a better place.</label>
 								</div>
 							</div>
 						</div>
@@ -309,7 +309,7 @@
 									<label class="person_label">Something about Catherine:</label><br/>
 									<label class="skill">Can name 50 states in under 15 seconds.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
-									<label class="skill">I believe that everyone has the power to make a positive difference in the world no matter how big or small. I have never been in an environment with so many motivated, like-minded individuals before! QCOP inspires.</label>
+									<label class="skill">Philanthropy means fidelity to a worthy purpose. And that, in turn, means happiness.  QCOP is a fantastic opportunity to educate and inspire students into action of their own.</label>
 								</div>
 							</div>
 						</div>
@@ -527,7 +527,7 @@
 								<div class="col-sm-12 text-left">
 									<br/>
 									<label class="person_label">Something about Lexi:</label><br/>
-									<label class="skill">I have a phobia of ketchup (which may be more weird than fun…)</label><br/>
+									<label class="skill">I have a phobia of ketchup (which may be more weird than fun...</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">QCOP is a phenomenal team who work towards creating high-impact opportunities for other individuals who share similar passions, so what&#39;s not to love? It&#39;s amazing to see the positive impact QCOP has on the Queen&#39;s campus and beyond.</label>
 								</div>
@@ -667,7 +667,7 @@
 									<label class="person_label">Something about Caroline:</label><br/>
 									<label class="skill">I have been a competitive dancer for over ten years and love musicals.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
-									<label class="skill">I have always loved to volunteer and being new to Queen’s, I knew I wanted to get involved right away. I thought that the best place to start was by giving back on a team of enthusiastic and like&#8211;minded people.</label>
+									<label class="skill">I have always loved to volunteer and being new to Queen&#39;s, I knew I wanted to get involved right away. I thought that the best place to start was by giving back on a team of enthusiastic and like&#8211;minded people.</label>
 								</div>
 							</div>
 						</div>
