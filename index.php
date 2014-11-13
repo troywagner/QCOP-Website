@@ -23,7 +23,9 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="./js/jquery.js"></script>
 	<script src="./js/navbar.js"></script>
-
+	<?php
+		include_once('./include/analytics.php');
+	?>
 </head>
 <body>
 <?php
@@ -95,7 +97,11 @@
 					<li><p class="about_text" style="font-size:16px;font-family: 'Allerta', sans-serif;">As a registered charity, financial contributions to QCOP provide your company with the opportunity of receiving tax credits. If you need more information, just ask your sponsorship coordinator.</p></li>
 				</ul>
 			</div>
-
+			<div class="col-sm-8 col-sm-offset-2" style="margin-top:10px;">
+				<a href="./spons.pdf">
+					<img src="./imgs/download.png" style="width:50px;height:50px;float:left;"><label style="float:left;position:relative;top:15px;left:10px;font-size:18px;">Sponsorship Package</label>
+				</a>
+			</div>
 
 
 
@@ -211,7 +217,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Vivian.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -266,7 +272,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Sarah.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -289,11 +295,11 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Catherine.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -313,11 +319,11 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					<a href="http://www.weaverprojects.com">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -344,7 +350,7 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -368,7 +374,7 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 
 				<div class="col-sm-6" style="">
@@ -376,7 +382,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Graeme.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -432,7 +438,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Jakob.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -455,11 +461,11 @@
 					</a>
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Carmen.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -479,10 +485,10 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -506,14 +512,14 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/lexiewing">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Lexi.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -540,7 +546,7 @@
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Brandon.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -591,11 +597,11 @@
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Danielle.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -615,15 +621,15 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
-									<img src="./imgs/ppl/keith.jpg" class="team_img"/>
+									<img src="./imgs/ppl/Julie.jpg" class="team_img"/>
 								</div>
 								<div class="col-sm-6 text-left">
 
@@ -643,11 +649,11 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 
 				<div class="col-sm-6" style="">
-					<a href="#">
+					
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
 								<div class="col-sm-6 text-left">
@@ -671,7 +677,7 @@
 								</div>
 							</div>
 						</div>
-					</a>
+					
 				</div>
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/abhitsahota">

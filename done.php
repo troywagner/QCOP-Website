@@ -90,6 +90,9 @@
 	<link href="./Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="./css/navbar.css" rel="stylesheet"/>
 	<link href="./css/about.css" rel="stylesheet"/>
+	<?php
+		include_once('./include/analytics.php');
+	?>
 	<style>
 		body{
         

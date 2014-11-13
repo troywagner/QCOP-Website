@@ -43,6 +43,9 @@
 	<script src="./js/navbar.js"></script>
 	<script src="./js/external.js"></script>
 	<title>Attend | QCOP</title>
+	<?php
+		include_once('./include/analytics.php');
+	?>
 </head>
 <body>
 
