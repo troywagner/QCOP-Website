@@ -129,7 +129,7 @@
 			</div>
 			<div class="row cardRow">
 
-				<div class="col-sm-6" style="float:left;">
+				<div class="col-sm-6" style="">
 					<a href="http://ca.linkedin.com/pub/river-habermehl-hatt/50/8b0/840">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -156,7 +156,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6" style="float:left;">
+				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/pub/heather-evans/62/830/646">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -183,9 +183,10 @@
 						</div>
 					</a>
 				</div>
-				
+			</div>
+			<div class="row cardRow">
 
-				<div class="col-sm-6" style="float:left;">
+				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/pub/zoe-keirstead/3b/292/6a0">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -212,7 +213,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6" style="float:left;">
+				<div class="col-sm-6" style="">
 					<a href="http://ca.linkedin.com/pub/vivian-li/6b/305/153">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -239,7 +240,10 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6" style="float:left;">
+
+			</div>
+			<div class="row cardRow">
+				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/pub/maureen-marful/49/633/247">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -267,7 +271,7 @@
 					</a>
 				</div>
 
-				<div class="col-sm-6" style="float:left;">
+				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/sarahhannay">
 						<div class="panel panel-default panelt">
 							<div class="panel-body">
@@ -294,6 +298,8 @@
 						</div>
 					</a>
 				</div>
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					
 						<div class="panel panel-default panelt">
@@ -349,6 +355,8 @@
 						</div>
 					</a>
 				</div>
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					
 						<div class="panel panel-default panelt">
@@ -404,6 +412,8 @@
 						</div>
 					</a>
 				</div>
+			</div>
+			<div class="row cardRow">
 
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/stynatao">
@@ -460,6 +470,9 @@
 						</div>
 					</a>
 				</div>
+
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					
 						<div class="panel panel-default panelt">
@@ -514,6 +527,8 @@
 						</div>
 					
 				</div>
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/lexiewing">
 						<div class="panel panel-default panelt">
@@ -568,6 +583,8 @@
 						</div>
 					</a>
 				</div>
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/leahwatson">
 						<div class="panel panel-default panelt">
@@ -624,6 +641,8 @@
 					
 				</div>
 
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					
 						<div class="panel panel-default panelt">
@@ -679,6 +698,8 @@
 						</div>
 					
 				</div>
+			</div>
+			<div class="row cardRow">
 				<div class="col-sm-6" style="">
 					<a href="https://www.linkedin.com/in/abhitsahota">
 						<div class="panel panel-default panelt">
@@ -707,6 +728,10 @@
 					</a>
 				</div>
 
+
+
+
+			</div>
 
 
 
