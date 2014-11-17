@@ -45,7 +45,7 @@
 				</li>
 				-->
 				<li class="">
-					<a href="./arc.php" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
+					<a href="./attend.php" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
 						
 					</a>
 				</li>

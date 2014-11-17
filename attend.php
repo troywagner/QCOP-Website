@@ -222,6 +222,8 @@
 							</div>	
 							<br/>
 							<br/>
+							<p>If you have any issues, please email <a href="mailto:qcopexternals@gmail.com">qcopexternals@gmail.com</a></p>
+							<br/>
 							<div style="width:100%;text-align:center;">
 								<button type="submit" class="pay-btn">Submit</button>
 							</div>
