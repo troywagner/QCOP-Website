@@ -26,6 +26,7 @@
 	<?php
 		include_once('./include/analytics.php');
 	?>
+	<link rel="SHORTCUT ICON" href="./imgs/qcop.png"/>
 </head>
 <body>
 <?php
@@ -36,7 +37,7 @@
 <div class="top_wrapper">
 	<img src="./imgs/Heart.png" class="logo"/><br/>
 	<img src="./imgs/words.png" class="text"/>
-	<h1 class="time_text"/>January 23 - 24</h1>
+	<h1 class="time_text"/>January 22 - 24</h1>
 </div>
 
 

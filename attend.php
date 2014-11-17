@@ -46,6 +46,7 @@
 	<?php
 		include_once('./include/analytics.php');
 	?>
+	<link rel="SHORTCUT ICON" href="./imgs/qcop.png"/>
 </head>
 <body>
 

@@ -133,6 +133,7 @@
 	<script src="./js/navbar.js"></script>
 	<script src="./js/external.js"></script>
 	<title>Attend | QCOP</title>
+	<link rel="SHORTCUT ICON" href="./imgs/qcop.png"/>
 </head>
 <body>
 
