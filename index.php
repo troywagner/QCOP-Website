@@ -78,7 +78,11 @@
 			</div>
 
 		</div>
-
+		<div class="row white_row">
+			<div class="col-sm-12 text-center">
+				<iframe width="560" height="315" src="//www.youtube.com/embed/LCLDlFjkVNY" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
 		<div class="row white_row">
 			
 			<div class="col-sm-12 text-center">
@@ -350,7 +354,7 @@
 									<label class="person_label">Something about Keith:</label><br/>
 									<label class="skill">Taught myself most the programming languages I know.</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
-									<label class="skill">Taught myself most the programming languages I know.</label>
+									<label class="skill">I love contributing to a conference with such a great purpose.</label>
 								</div>
 							</div>
 						</div>
@@ -549,7 +553,7 @@
 								<div class="col-sm-12 text-left">
 									<br/>
 									<label class="person_label">Something about Lexi:</label><br/>
-									<label class="skill">I have a phobia of ketchup (which may be more weird than fun...</label><br/>
+									<label class="skill">I have a phobia of ketchup (which may be more weird than fun...)</label><br/>
 									<label class="person_label">Why QCOP?</label><br/>
 									<label class="skill">QCOP is a phenomenal team who work towards creating high-impact opportunities for other individuals who share similar passions, so what&#39;s not to love? It&#39;s amazing to see the positive impact QCOP has on the Queen&#39;s campus and beyond.</label>
 								</div>

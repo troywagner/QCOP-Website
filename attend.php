@@ -176,7 +176,7 @@
 							<br/>
 							<div class="form-group">
 								<div class="col-sm-12">
-									<label>1) Why do you want to be a QCOP 2015 delegate? (1500 character max)</label>
+									<label>1) Why do you want to be a QCOP 2015 delegate? (150 word max)</label>
 								</div>
 								<div class="col-sm-12">
 									<textarea class="question_textarea form-control 150max" id="q1" maxlength="1500" required name="q1_textbox"></textarea>
@@ -197,7 +197,7 @@
 							</div>
 							<div class="form-group">
 								<div class="col-sm-12">
-									<label>3) You have been given a $5000 grant to work on a philanthropic initiative of your choice. How would you spend the grant? (1500 character max)</label>
+									<label>3) You have been given a $5000 grant to work on a philanthropic initiative of your choice. How would you spend the grant? (150 word max)</label>
 								</div>
 								<div class="col-sm-12">
 									<textarea class="question_textarea form-control" id="q3" maxlength="1500" required name="q3_textbox"></textarea>

@@ -56,10 +56,35 @@
 	$q3 = contentCheck($q3);
 	$rp = contentCheck($rp);
 
+	$to = "appqcop@gmail.com";
+	$subject = "Application";
+	$txt = "
+	$name\n
+	$email\n
+	$school\n
+	$major\n
+	$gender\n
+	$dType\n
+	$age\n
+	$return\n
+	$campusRep\n
+	$hearQCOP\n
+	\n
+	$q1\n
+	$q2_1\n
+	$q2_2\n
+	$q2_3\n
+	$q2_4\n
+	$q2_5\n
+	$q3\n
+	$rp\n
+	";
+	$headers = "From: appqcop@gmail.com";
+
+	mail($to,$subject,$txt,$headers);
 	include_once('./include/conn.php');
 	$code = genCode();
-	mysqli_query($con, "INSERT INTO apps (code, name, email, school, major, gender, dType, age, returnD, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp, result) VALUES 
-										 ('$code', '$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp','')") or die("Error 001");
+	mysqli_query($con, "INSERT INTO apps (code, name, email, school, major, gender, dType, age, returnD, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp, result) VALUES ('$code', '$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp','')") or die("Error 001");
 	
 	function genCode(){
 		$s = "";
