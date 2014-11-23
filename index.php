@@ -21,6 +21,7 @@
 	    	width: 90%;
 	    	border-radius: 50%;
 	    }
+
 	</style>
 	<link href="./css/phil.css" rel="stylesheet"/>
 	<link href="./css/homeWhite.css" rel="stylesheet"/>
@@ -120,32 +121,45 @@
 			</div>
 			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/AbidVirani.jpg" class="pastSpeaker_img" />
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/AbidVirani.jpg" onmouseover="this.src='./imgs/pastSpeakers/AbidVirani_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/AbidVirani.jpg'">
 				</div>
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/FraserGreen.jpg" class="pastSpeaker_img" />
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/FraserGreen.jpg" onmouseover="this.src='./imgs/pastSpeakers/FraserGreen_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/FraserGreen.jpg'">
+				
 				</div>
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/KateWhite.jpg" class="pastSpeaker_img" />
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/KateWhite.jpg" onmouseover="this.src='./imgs/pastSpeakers/KateWhite_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/KateWhite.jpg'">
+				
 				</div>
 			
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/LarryScanlan.jpg" class="pastSpeaker_img" />
+					
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/LarryScanlan.jpg" onmouseover="this.src='./imgs/pastSpeakers/LarryScanlan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/LarryScanlan.jpg'">
+				
 				</div>
 			</div>
 			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/MikeProsserman.jpg" class="pastSpeaker_img" />
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/MikeProsserman.jpg" onmouseover="this.src='./imgs/pastSpeakers/MikeProsserman_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/MikeProsserman.jpg'">
+				
 				</div>
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/Susan.jpg" class="pastSpeaker_img" />
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/Susan.jpg" onmouseover="this.src='./imgs/pastSpeakers/Susan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/Susan.jpg'">
 				</div>
 			
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/TedGarrard.jpg" class="pastSpeaker_img" />
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/TedGarrard.jpg" onmouseover="this.src='./imgs/pastSpeakers/TedGarrard_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/TedGarrard.jpg'">
 				</div>
 				<div class="col-sm-3 text-center">
-					<img src="./imgs/pastSpeakers/RobDyer.jpg" class="pastSpeaker_img" />
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/RobDyer.jpg" onmouseover="this.src='./imgs/pastSpeakers/RobDyer_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/RobDyer.jpg'">
 				</div>
 				
 			</div>
