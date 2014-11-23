@@ -12,6 +12,14 @@
 	        -o-background-size: cover;
 	        background-size: cover;
 	      }
+	      .pastSpeaker_img{
+	    	max-width: 250px;
+	    	width: 90%;
+	    	border-radius: 50%;
+	    }
+	    .white_row{
+	    	background-color: white;
+	    }
 	</style>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="./js/navbar.js"></script>
@@ -35,8 +43,8 @@
 			</div>
 		</div>
 		<div class="row" style="margin-top:10px;">
-			<div class="col-sm-12">
-				<div class="about_wrapper" style="">
+			<div class="col-sm-12 white_row">
+				<div class="about_wrapper " style="">
 					<div class="about_buffer">
 
 						<p class="about_text">
@@ -52,9 +60,62 @@
 				</div>
 			</div>
 		</div>
+		<div class="row white_row">
+			
+			<div class="col-sm-12 text-center">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">PAST SPEAKERS</h1>
+			</div>
+			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
+				<div class="col-sm-3 text-center">
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/AbidVirani.jpg" onmouseover="this.src='./imgs/pastSpeakers/AbidVirani_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/AbidVirani.jpg'">
+				</div>
+				<div class="col-sm-3 text-center">
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/FraserGreen.jpg" onmouseover="this.src='./imgs/pastSpeakers/FraserGreen_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/FraserGreen.jpg'">
+				
+				</div>
+				<div class="col-sm-3 text-center">
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/KateWhite.jpg" onmouseover="this.src='./imgs/pastSpeakers/KateWhite_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/KateWhite.jpg'">
+				
+				</div>
+			
+				<div class="col-sm-3 text-center">
+					
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/LarryScanlan.jpg" onmouseover="this.src='./imgs/pastSpeakers/LarryScanlan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/LarryScanlan.jpg'">
+				
+				</div>
+			</div>
+			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
+				<div class="col-sm-3 text-center">
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/MikeProsserman.jpg" onmouseover="this.src='./imgs/pastSpeakers/MikeProsserman_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/MikeProsserman.jpg'">
+				
+				</div>
+				<div class="col-sm-3 text-center">
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/Susan.jpg" onmouseover="this.src='./imgs/pastSpeakers/Susan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/Susan.jpg'">
+				</div>
+			
+				<div class="col-sm-3 text-center">
+
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/TedGarrard.jpg" onmouseover="this.src='./imgs/pastSpeakers/TedGarrard_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/TedGarrard.jpg'">
+				</div>
+				<div class="col-sm-3 text-center">
+					
+					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/RobDyer.jpg" onmouseover="this.src='./imgs/pastSpeakers/RobDyer_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/RobDyer.jpg'">
+				</div>
+				
+			</div>
+		</div>
+		<div class="row">
+			<div style="height:40px;width:100%;position:relative;"></div>
+		</div>
 	</div>
 </div>
-
+<div style="height:40px;width:100%;"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="./Bootstrap/js/bootstrap.min.js"></script>
 </body>
