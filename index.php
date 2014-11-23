@@ -16,6 +16,11 @@
 	    .person_label{
 	    	color: #BDBDBD;
 	    }
+	    .pastSpeaker_img{
+	    	max-width: 250px;
+	    	width: 90%;
+	    	border-radius: 50%;
+	    }
 	</style>
 	<link href="./css/phil.css" rel="stylesheet"/>
 	<link href="./css/homeWhite.css" rel="stylesheet"/>
@@ -107,14 +112,45 @@
 					<img src="./imgs/download.png" style="width:50px;height:50px;float:left;"><label style="float:left;position:relative;top:15px;left:10px;font-size:18px;">Sponsorship Package</label>
 				</a>
 			</div>
-
-
-
-
-
-
-
 		</div>
+		<div class="row white_row">
+			
+			<div class="col-sm-12 text-center">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">PAST SPEAKERS</h1>
+			</div>
+			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/AbidVirani.jpg" class="pastSpeaker_img" />
+				</div>
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/FraserGreen.jpg" class="pastSpeaker_img" />
+				</div>
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/KateWhite.jpg" class="pastSpeaker_img" />
+				</div>
+			
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/LarryScanlan.jpg" class="pastSpeaker_img" />
+				</div>
+			</div>
+			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/MikeProsserman.jpg" class="pastSpeaker_img" />
+				</div>
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/Susan.jpg" class="pastSpeaker_img" />
+				</div>
+			
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/TedGarrard.jpg" class="pastSpeaker_img" />
+				</div>
+				<div class="col-sm-3 text-center">
+					<img src="./imgs/pastSpeakers/RobDyer.jpg" class="pastSpeaker_img" />
+				</div>
+				
+			</div>
+		</div>
+
 	</div>
 </div>
 
