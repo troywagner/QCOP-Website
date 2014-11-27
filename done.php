@@ -37,6 +37,21 @@
 	$q3 = $_POST['q3_textbox'];
 	$rp = $_POST['rp_textbox'];
 
+	check($name);
+	check($email);
+	check($school);
+	check($major);
+	check($gender);
+	check($dType);
+	check($age);
+	check($q1);
+	check($q2_1);
+	check($q2_2);
+	check($q2_3);
+	check($q2_4);
+	check($q2_5);
+	check($q3);
+
 	$name = contentCheck($name);
 	$email = contentCheck($email);
 	$school = contentCheck($school);
@@ -108,6 +123,11 @@
 		$data = addslashes($data);
 		$data = htmlspecialchars($data);
 		return $data;
+  	}
+  	function check($item){
+  		if($item == ""){
+  			die("A textbox was blank.");
+  		}
   	}
 ?>
 <html>
