@@ -71,7 +71,7 @@
 								
 								<div class="form-group">
 									<div class="col-sm-12 text-center">
-										<button class="btn btn-info">Get an email when applications are opened!</button>
+										<button class="btn btn-info">Submit to be considered for the waitlist!</button>
 									</div>
 								</div>
 							</form>
