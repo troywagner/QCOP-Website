@@ -73,6 +73,9 @@
 						echo 'Thanks for signing up early!';
 					}else if($c == "email"){
 						echo 'Thanks for the message!';
+					}else if($c == "waitlist"){
+
+						echo 'You have been added to the waitlist.';
 					}else{
 						echo 'Error';
 					}
