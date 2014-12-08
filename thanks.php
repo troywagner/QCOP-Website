@@ -76,6 +76,9 @@
 					}else if($c == "waitlist"){
 
 						echo 'You have been added to the waitlist.';
+					}else if($c == "pay"){
+
+						echo 'Thanks for paying!';
 					}else{
 						echo 'Error';
 					}

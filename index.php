@@ -66,7 +66,10 @@
 				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">ABOUT US</h1>
 			</div>
 			<div class="col-sm-8 col-sm-offset-2">
-				<p class="about_text" style="font-size:16px;font-family: 'Allerta', sans-serif;">Queen&#39;s Conference on Philanthropy is Canada&#39;s premier undergraduate philanthropic conference. At QCOP, we aim to educate, inspire and empower top undergraduate delegates nationwide to make a difference in today&#39;s world. QCOP 2015 will feature a lineup of accomplished and motivational speakers who work across different industries, and welcome over 150 delegates from across Canada. Delegates will participate in a series of hands-on workshops to provide them with tools to address, analyze, and tackle both local and global issues.</p>
+				<p class="about_text" style="font-size:16px;font-family: 'Allerta', sans-serif;">Queen&#39;s Conference on Philanthropy is Canada&#39;s premier undergraduate philanthropic conference. At QCOP, we aim to educate, inspire and empower top undergraduate delegates nationwide to make a difference in today&#39;s world. QCOP 2015 will feature a lineup of accomplished and motivational speakers who work across different industries, and welcome over 150 delegates from across Canada. Delegates will participate in a series of hands-on workshops to provide them with tools to address, analyze, and tackle both local and global issues.
+				<br/>
+				The 2015 conference will be held at the Holiday Inn Kingston Waterfront at  2 Princess St., Kingston, ON.
+				</p>
 			</div>
 		</div>
 		<a name="sponsors"></a>
