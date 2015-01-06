@@ -135,45 +135,12 @@
 	<link href="./Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="./css/navbar.css" rel="stylesheet"/>
 	<link href="./css/about.css" rel="stylesheet"/>
+	<link href="./css/general.css" rel="stylesheet"/>
+	
 	<?php
 		include_once('./include/analytics.php');
 	?>
-	<style>
-		body{
-        
-	        background: url(./imgs/LANDING.png) no-repeat center center fixed; 
-	        -webkit-background-size: cover;
-	        -moz-background-size: cover;
-	        -o-background-size: cover;
-	        background-size: cover;
-	      }
-	      .question_textarea{
-	      	width:100%;
-	      	max-width: 100%;
-	      	min-width: 100%;
-	      	height: 100px;
-	      	min-height: 100px;
-	      	max-height: 100px;
-	      }
-	      .app_label{
-	      	width: 80px;
-	      }
-	      .pay-btn{
-	      	padding:20px 10px;
-	      	background-color: white;
-	      	text-decoration: none;
-	      	color:#8A0829;
-	      	border:#8A0829 solid 2px;
-	      	border-radius: 5px;
-
-	      }
-	      .pay-btn:hover{
-	      	text-decoration: none;
-	      	color: white;
-	      	background-color: #8A0829;
-
-	      }
-	</style>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="./js/navbar.js"></script>
 	<script src="./js/external.js"></script>
@@ -183,7 +150,7 @@
 <body>
 
 <?php
-	include_once('./include/navbar.php');
+	include_once('./html/navbar.php');
 ?>
 
 

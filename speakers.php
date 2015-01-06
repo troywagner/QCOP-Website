@@ -3,24 +3,8 @@
 	<link href="./Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="./css/navbar.css" rel="stylesheet"/>
 	<link href="./css/about.css" rel="stylesheet"/>
-	<style>
-		body{
-        
-	        background: url(./imgs/LANDING.png) no-repeat center center fixed; 
-	        -webkit-background-size: cover;
-	        -moz-background-size: cover;
-	        -o-background-size: cover;
-	        background-size: cover;
-	      }
-	      .pastSpeaker_img{
-	    	max-width: 250px;
-	    	width: 90%;
-	    	border-radius: 50%;
-	    }
-	    .white_row{
-	    	background-color: white;
-	    }
-	</style>
+	<link href="./css/general.css" rel="stylesheet"/>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="./js/navbar.js"></script>
 	<?php

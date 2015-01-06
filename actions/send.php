@@ -22,9 +22,9 @@
 	mail($to,$subject,$txt,$headers);
 
 
-	echo '<script>window.location.replace("../thanks.php?c=email");</script>';
-	header('Location: http://www.qcop.ca/thanks.php?c=email');
-	die("<a href='../thanks.php?c=email'>Return Home</a>");
+	echo '<script>window.location.replace("../thanks?c=email");</script>';
+	header('Location: http://www.qcop.ca/thanks?c=email');
+	die("<a href='../thanks?c=email'>Return Home</a>");
 
 	function contentCheck($data){
 		$data = trim($data);

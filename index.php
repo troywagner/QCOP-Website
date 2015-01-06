@@ -31,7 +31,7 @@
 </head>
 <body>
 <?php
-	include_once('./include/navbar.php');
+	include_once('./html/navbar.php');
 ?>
 
 

@@ -4,24 +4,8 @@
 	<link href="./css/navbar.css" rel="stylesheet"/>
 	<link href="./css/main.css" rel="stylesheet"/>
 	<link href="./css/about.css" rel="stylesheet"/>
-	<style>
-		body{
-        
-	        background: url(./imgs/LANDING.png) no-repeat center center fixed; 
-	        -webkit-background-size: cover;
-	        -moz-background-size: cover;
-	        -o-background-size: cover;
-	        background-size: cover;
-	      }
-	      .question_textarea{
-	      	width:100%;
-	      	max-width: 100%;
-	      	min-width: 100%;
-	      	height: 100px;
-	      	min-height: 100px;
-	      	max-height: 100px;
-	      }
-	</style>
+	<link href="./css/general.css" rel="stylesheet"/>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="./js/navbar.js"></script>
 	<?php
@@ -32,7 +16,7 @@
 <body>
 
 <?php
-	include_once('./include/navbar.php');
+	include_once('./html/navbar.php');
 ?>
 
 

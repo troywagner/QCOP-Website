@@ -104,9 +104,9 @@
   mail($to,$subject,$txt,$headers);
 
 
-  echo '<script>window.location.replace("./thanks.php?c=pay");</script>';
+  echo '<script>window.location.replace("./thanks?c=pay");</script>';
   //header('Location: http://www.compsa.queensu.ca');
-  die("<a href='./index.php'>Return Home</a>");
+  die("<a href='./index'>Return Home</a>");
 
   function contentCheck($data){
     $data = trim($data);
