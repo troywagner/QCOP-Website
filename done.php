@@ -99,7 +99,7 @@
 	mail($to,$subject,$txt,$headers);
 	include_once('./include/conn.php');
 	$code = genCode();
-	mysqli_query($con, "INSERT INTO apps (code, name, email, school, major, gender, dType, age, returnD, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp, result) VALUES ('$code', '$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp','')") or die("Error 001");
+	mysqli_query($con, "INSERT INTO apps3 (code, name, email, school, major, gender, dType, age, returnD, campusRep, hearQCOP, q1, q2_1, q2_2, q2_3, q2_4, q2_5, q3, rp, result) VALUES ('$code', '$name', '$email', '$school', '$major','$gender','$dType','$age','$return','$campusRep','$hearQCOP','$q1','$q2_1','$q2_2','$q2_3','$q2_4','$q2_5','$q3','$rp','')") or die("Error 001");
 	
 	function genCode(){
 		$s = "";

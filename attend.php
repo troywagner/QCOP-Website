@@ -1,5 +1,5 @@
 <?php
-	die("Applications are closed.");
+	//die("Applications are closed.");
 ?>
 <html>
 <head>
