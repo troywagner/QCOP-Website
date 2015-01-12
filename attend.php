@@ -166,10 +166,12 @@
 							</div>
 							<div class="form-group">
 								<div class="col-sm-12">
+									<!--
 									<label>3) You have been given a $5000 grant to work on a philanthropic initiative of your choice. How would you spend the grant? (150 word max)</label>
+									-->
 								</div>
 								<div class="col-sm-12">
-									<textarea class="question_textarea form-control" id="q3" maxlength="1500" required name="q3_textbox"></textarea>
+									<textarea class="question_textarea form-control" id="q3" maxlength="1500" hidden name="q3_textbox"></textarea>
 								</div>
 							</div>
 							<!--
