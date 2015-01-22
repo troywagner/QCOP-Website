@@ -33,7 +33,7 @@
 		$fullName = "ENE UNDERWOOD";
 		$position = "CEO, HABITAT FOR HUMANITY GTA";
 
-		$path = "./imgs/";
+		$path = "underwood.jpg";
 		$about_text = "Ene Underwood was appointed CEO of Habitat for Humanity Toronto in April 2013. Ene&#39;s introduction to grassroots community building began as a child growing up on a farm in a tight-knit community in southwestern Ontario. In adulthood, Ene&#39;s career began in the private sector, first in computer systems, then as a strategy consultant with McKinsey & Company. A lifelong attraction to promoting individual and community wellbeing led Ene to spend the majority of her career in health care and, more recently, in child welfare.<br/><br/>
 						Ene&#39;s public sector leadership roles have included: CEO of a large public- private medical laboratory organization providing services to nine Toronto hospitals; leadership responsibility for strategic planning and amalgamation of a number of health services in Toronto; and Chair of a provincial Commission developing and implementing changes to promote sustainable child welfare.<br/><br/>
 						In her volunteer life, Ene has served on various community boards including Dixon Hall and the Children&#39;s Aid Society of Toronto. Ene has an Honours B.A. in Social Development Studies from the University of Waterloo and an MBA from the Ivey School of Business. Ene lives in Toronto and is the proud parent of a teenaged son.<br/><br/>

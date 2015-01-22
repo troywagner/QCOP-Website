@@ -72,7 +72,7 @@
 			</div>
 			<div class="col-sm-3 text-center">
 				<a href="./speaker?name=Ene">
-					<img src="./imgs" style="width:100%;border-radius:50%;">
+					<img src="./imgs/speakers/underwood.jpg" style="width:100%;border-radius:50%;">
 					<p class="speakerName">Ene Underwood</p>
 				</a>
 			</div>
