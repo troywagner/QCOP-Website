@@ -1,5 +1,7 @@
 <html>
 <head>
+	<link href='http://fonts.googleapis.com/css?family=Allerta' rel='stylesheet' type='text/css'>
+	
 	<link href="./Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="./css/navbar.css" rel="stylesheet"/>
 	<link href="./css/about.css" rel="stylesheet"/>
@@ -11,6 +13,14 @@
 		include_once('./include/analytics.php');
 	?>
 	<link rel="SHORTCUT ICON" href="./imgs/qcop.png"/>
+	<style>
+		.speakerName{
+			font-size: 18px;
+			color: white;
+			font-family: 'Allerta', sans-serif;
+		}
+	</style>
+	<title>Speakers | QCOP</title>
 </head>
 <body>
 
@@ -21,79 +31,103 @@
 
 <div class="outter_wrapper">
 	<div class="container">
-		<div class="row">
-			<div class="col-sm-12">
-				<h1 style="color:white;">Speakers</h1>
+		<div class="row" style="margin-top:5%;">
+			<div class="col-sm-12 text-center">
+				<h1 style="color:white;font-size:42px;">QCOP 2015 Speakers</h1>
 			</div>
 		</div>
+		<!--
 		<div class="row" style="margin-top:10px;">
 			<div class="col-sm-12 white_row">
 				<div class="about_wrapper " style="">
 					<div class="about_buffer">
 
 						<p class="about_text">
-							Since QCOP's creation, we have hosted a wide array of speakers from various fields. They are professionals at the helm of large NGOs, athletes and artists who continue to contribute to their communities. They are founders of organizations that seek creative solutions to problems of poverty, environment, and education, and brave individuals who have experienced first-hand the harsh reality of a conflict zone.<br/>
-							<br/>
-							We are looking for speakers that represent the variety of interests that our delegates hold, as we'd like to inspire them to pursue their passion in all areas of philanthropy. We welcome speakers who would like to share a heart-warming or a heart-wrenching story to give our delegates perspective on what's happening in the world. We also welcome speakers who will impart wisdom and experience to our delegates who will use that knowledge for their philanthropic pursuits.<br/>
-							<br/>
-							If you are someone involved in any philanthropic activity who loves to engage, inspire, and connect with aspiring youth, then we are looking for you! Please see our Speakers Package for why you should speak at QCOP and more details about the conference itself. You can also contact the Speakers Team at <a href="mailto:speakers@qcop.ca">speakers@qcop.ca</a>.<br/>
-							<br/>
-							We look forward to welcoming you to the QCOP family!
+							<img src="./imgs/me.jpg" style="width:100%;height:100%;">
 						</p>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row white_row">
+		-->
+
+		<div class="row" style="margin-top:2%;">
+			<div class="col-sm-3 text-center">
+				<a href="./speaker?name=Jeff&Kyle">
+					<img src="./imgs/speakers/gallant.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Jeff Gallant</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./speaker?name=Jeff&Kyle">
+					<img src="./imgs/speakers/macdonald.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Kyle Macdonald</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./speaker?name=Jim">
+					<img src="./imgs/speakers/leech1.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Jim Leech</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./speaker?name=Ene">
+					<img src="./imgs" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Ene Underwood</p>
+				</a>
+			</div>
+
 			
+		</div>
+		<div class="row" style="margin-top:2%;">
+			<div class="col-sm-3 col-sm-offset-2 text-center">
+				<a href="./speaker?name=Dave">
+					<img src="./imgs/speakers/dryden.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Dave Dryden</p>
+				</a>
+			</div>
+			<div class="col-sm-3 col-sm-offset-2 text-center">
+				<a href="./speaker?name=Andrea">
+					<img src="./imgs/speakers/zeelie-varga.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Andrea Zeelie-Varga</p>
+				</a>
+			</div>
+			
+			
+		</div>
+		<div class="row" style="margin-top:10%;">
 			<div class="col-sm-12 text-center">
-				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">PAST SPEAKERS</h1>
-			</div>
-			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
-				<div class="col-sm-3 text-center">
-					
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/AbidVirani.jpg" onmouseover="this.src='./imgs/pastSpeakers/AbidVirani_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/AbidVirani.jpg'">
-				</div>
-				<div class="col-sm-3 text-center">
-					
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/FraserGreen.jpg" onmouseover="this.src='./imgs/pastSpeakers/FraserGreen_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/FraserGreen.jpg'">
-				
-				</div>
-				<div class="col-sm-3 text-center">
-					
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/KateWhite.jpg" onmouseover="this.src='./imgs/pastSpeakers/KateWhite_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/KateWhite.jpg'">
-				
-				</div>
-			
-				<div class="col-sm-3 text-center">
-					
-
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/LarryScanlan.jpg" onmouseover="this.src='./imgs/pastSpeakers/LarryScanlan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/LarryScanlan.jpg'">
-				
-				</div>
-			</div>
-			<div class="col-sm-10 col-sm-offset-1" style="margin-top:20px;">
-				<div class="col-sm-3 text-center">
-					
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/MikeProsserman.jpg" onmouseover="this.src='./imgs/pastSpeakers/MikeProsserman_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/MikeProsserman.jpg'">
-				
-				</div>
-				<div class="col-sm-3 text-center">
-
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/Susan.jpg" onmouseover="this.src='./imgs/pastSpeakers/Susan_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/Susan.jpg'">
-				</div>
-			
-				<div class="col-sm-3 text-center">
-
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/TedGarrard.jpg" onmouseover="this.src='./imgs/pastSpeakers/TedGarrard_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/TedGarrard.jpg'">
-				</div>
-				<div class="col-sm-3 text-center">
-					
-					<img class="pastSpeaker_img" src="./imgs/pastSpeakers/RobDyer.jpg" onmouseover="this.src='./imgs/pastSpeakers/RobDyer_hover.jpg'" onmouseout="this.src='./imgs/pastSpeakers/RobDyer.jpg'">
-				</div>
-				
+				<h1 style="color:white;font-size:42px;">QCOP 2015 Workshop</h1>
 			</div>
 		</div>
+		<div class="row" style="margin-top:2%;">
+			<div class="col-sm-3 text-center">
+				<a href="./workshop?name=Joyce">
+					<img src="./imgs/speakers/hsu.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Joyce Hsu</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./workshop?name=Denny">
+					<img src="./imgs/speakers/dy.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Denny Young</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./workshop?name=Jessica">
+					<img src="./imgs/speakers/green.jpg" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Jessice Green</p>
+				</a>
+			</div>
+			<div class="col-sm-3 text-center">
+				<a href="./workshop?name=Canfar">
+					<img src="./imgs/speakers/canfar.png" style="width:100%;border-radius:50%;">
+					<p class="speakerName">Canfar</p>
+				</a>
+			</div>
+			
+		</div>
+		
 		<div class="row">
 			<div style="height:40px;width:100%;position:relative;"></div>
 		</div>

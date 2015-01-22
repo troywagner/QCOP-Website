@@ -27,7 +27,7 @@
 					</a>
 				</li>
 				<li class="">
-					<a href="./speakers.php" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
+					<a href="./speakers" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
 						
 					</a>
 				</li>

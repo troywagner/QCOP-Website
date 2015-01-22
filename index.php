@@ -88,7 +88,84 @@
 			</div>
 		</div>
 		<div class="row white_row">
-			
+			<div class="col-sm-12 text-center" style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">PLATINUM SPONSORS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2" style="margin-top:5%;">
+				<img src="./imgs/sponsors/ccl.png" class="col-sm-12">
+				<img src="./imgs/sponsors/1.jpg" class="col-sm-12">
+				
+			</div>
+			<div class="col-sm-12 text-center" style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">DIAMOND SPONSORS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2" style="margin-top:5%;">
+				<img src="./imgs/sponsors/Scotia.png" class="col-sm-6">
+				
+			</div>
+			<div class="col-sm-12 text-center"  style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">GOLD SPONSORS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/Queens.png" class="col-sm-6">
+				<img src="./imgs/sponsors/suncor.jpg" class="col-sm-6">
+				
+			</div>
+			<div class="col-sm-12 text-center"  style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">SILVER SPONSORS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/ams.png" class="col-sm-6">
+				<img src="./imgs/sponsors/community.png" class="col-sm-6">
+				
+			</div>
+			<div class="col-sm-12 text-center"  style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">DONATIONS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/ChapterLogo_CNE.gif" class="col-sm-6">
+				<div class="col-sm-6 text-center">
+					<h3>Marc Shaw</h3>
+				</div>
+			</div>
+			<div class="col-sm-12 text-center"  style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">IN-KIND DONATIONS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/gildan.jpg" class="col-sm-6">
+				<img src="./imgs/sponsors/3M-logo.jpg" class="col-sm-3">
+				<img src="./imgs/sponsors/davids.jpeg" class="col-sm-3">
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/constellation.png" class="col-sm-4">
+				<img src="./imgs/sponsors/drop-box.png" class="col-sm-4">
+				<img src="./imgs/sponsors/dominos-logo.jpg" class="col-sm-4">
+				
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/smokes_logo.jpg" class="col-sm-3">
+				<img src="./imgs/sponsors/boudler.jpeg" class="col-sm-3">
+				<img src="./imgs/sponsors/steam.jpg" class="col-sm-3">
+				<img src="./imgs/sponsors/qsaa.png" class="col-sm-3">
+				
+			</div>
+			<div class="col-sm-12 text-center"  style="margin-top:5%;">
+				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">SILENT AUCTION DONATIONS</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/bubbas.jpg" class="col-sm-3 col-sm-offset-1">
+				<img src="./imgs/sponsors/dq.png" class="col-sm-3">
+				<img src="./imgs/sponsors/slicelogo.jpg" class="col-sm-5">
+			</div>
+			<div class="col-sm-8 col-sm-offset-2"  style="margin-top:5%;">
+				<img src="./imgs/sponsors/MLSE_logo.jpg" class="col-sm-7">
+				<img src="./imgs/sponsors/Olivea.jpg" class="col-sm-4 col-sm-offset-1">
+				<img src="./imgs/sponsors/tricolour.jpg" class="col-sm-4">
+				<img src="./imgs/sponsors/HBC-logo.jpg" class="col-sm-4">
+				<img src="./imgs/sponsors/heelboy.png" class="col-sm-4">
+				
+			</div>
+			<!--
 			<div class="col-sm-12 text-center">
 				<h1 class="about_title" style="font-family: 'Allerta', sans-serif;">WHY SPONSOR?</h1>
 			</div>
@@ -111,6 +188,7 @@
 					<img src="./imgs/download.png" style="width:50px;height:50px;float:left;"><label style="float:left;position:relative;top:15px;left:10px;font-size:18px;">Sponsorship Package</label>
 				</a>
 			</div>
+			-->
 		</div>
 		
 

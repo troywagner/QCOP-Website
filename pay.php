@@ -5,6 +5,8 @@
 	$appCode = $_GET['a'];
 	$appCode = contentCheck($appCode);
 
+	
+
 	if($appCode == ""){
 		die("Error 1001: Please check the link in the email. If you still have issues, email <a href='mailto:info@qcop.ca'>info@qcop.ca</a>.");
 	}

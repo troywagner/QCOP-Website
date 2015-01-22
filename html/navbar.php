@@ -26,11 +26,13 @@
 						
 					</a>
 				</li>
+				<!--
 				<li class="">
 					<a href="https://qcop.ca/speakers" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
 						
 					</a>
 				</li>
+				-->
 				<li class="">
 					<a href="https://qcop.ca#sponsors" style="padding:0px 0px;" class="navbar_item" id="sponsors_item">
 		
@@ -45,7 +47,7 @@
 				</li>
 				-->
 				<li class="">
-					<a href="https://qcop.ca/attend" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
+					<a href="https://qcop.ca/closed" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
 						
 					</a>
 				</li>
