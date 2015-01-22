@@ -22,17 +22,17 @@
 		<div class="navbar-collapse collapse" class="">
 			<ul class="nav navbar-nav navbar-right" >
 				<li class="">
-					<a href="./index.php#about" style="padding:0px 0px;" class="navbar_item" id="about_item">
+					<a href="http://qcop.ca#about" style="padding:0px 0px;" class="navbar_item" id="about_item">
 						
 					</a>
 				</li>
 				<li class="">
-					<a href="./speakers" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
+					<a href="http://qcop.ca/speakers" style="padding:0px 0px;" class="navbar_item" id="speakers_item">
 						
 					</a>
 				</li>
 				<li class="">
-					<a href="./index.php#sponsors" style="padding:0px 0px;" class="navbar_item" id="sponsors_item">
+					<a href="http://qcop.ca/#sponsors" style="padding:0px 0px;" class="navbar_item" id="sponsors_item">
 		
 					</a>
 				</li>
@@ -45,12 +45,12 @@
 				</li>
 				-->
 				<li class="">
-					<a href="./attend.php" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
+					<a href="http://qcop.ca/closed" style="padding:0px 0px;" class="navbar_item" id="tickets_item">
 						
 					</a>
 				</li>
 				<li class="">
-					<a href="./connect.php" style="padding:0px 0px;" class="navbar_item" id="connect_item">
+					<a href="http://qcop.ca/connect" style="padding:0px 0px;" class="navbar_item" id="connect_item">
 						
 					</a>
 				</li>
