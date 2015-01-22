@@ -21,6 +21,11 @@
 		}
 	</style>
 	<title>Speakers | QCOP</title>
+	<style>
+		body{
+			background-image: url(./imgs/LANDING.jpg);
+		}
+	</style>
 </head>
 <body>
 

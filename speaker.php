@@ -50,7 +50,7 @@
 						For each $35 donation, SCAW provides a child with a kit consisting of a mat or mattress, pillow, bedsheet, blanket, mosquito net, clothes, towels, and school supplies. The kits are created in the country where they are to be distributed. This helps reduce transportation and material costs as well as providing an economic benefit to the targeted area. Since 1970, bed kits have been provided to 900 000 children.";
 		array_push($imgPath, $path);
 		array_push($about, $about_text);
-	}else if($name == ""){
+	}else if($name == "andrea" || $name="varga"){
 		$fullName = "ANDREA ZEELIE-VARGA";
 		$position = "NATIONAL PROGRAMS MANAGER, CANADIAN FOUNDATION FOR AIDS RESEARCH";
 
