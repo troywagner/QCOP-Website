@@ -1,0 +1,135 @@
+<html>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Allerta' rel='stylesheet' type='text/css'>
+	
+	<link href="http://www.qcop.ca/Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+	<link href="http://www.qcop.ca/css/navbar.css" rel="stylesheet"/>
+	<link href="http://www.qcop.ca/css/about.css" rel="stylesheet"/>
+	<!--
+	<link href="./css/general.css" rel="stylesheet"/>
+	-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="http://www.qcop.ca/js/navbar.js"></script>
+	
+	<link rel="SHORTCUT ICON" href="http://www.qcop.ca/imgs/qcop.png"/>
+	<style>
+		/*
+		.speakerName{
+			font-size: 24px;
+
+		}
+		.speakerInfo{
+			font-size: 16px;
+		}
+		.speakerSM{
+			font-size: 16px;
+		}
+		*/
+		.speaker_title{
+			font-size: 42px;
+			font-family: 'Allerta', sans-serif;
+		}
+		.speaker_text{
+			font-family: 'Allerta', sans-serif;
+			font-size: 18px;
+		}
+		.speaker_position{
+			font-size: 32px;
+			font-family: 'Allerta', sans-serif;
+		}
+	</style>
+</head>
+<body>
+
+
+
+
+<div class="outter_wrapper">
+	<!--
+	<div class="container">
+
+		<div class="row">
+			<div class="col-sm-12">
+				<h1 style="color:white;">Speakers</h1>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div style="height:40px;width:100%;position:relative;"></div>
+		</div>
+	</div>
+	-->
+
+
+	<div class="container">
+		<div class="row ">
+			
+			<div class="col-sm-8 col-sm-offset-2 text-center">
+				
+				<%=
+					for(var i = 0;i < picturePath.length;i++){ %>
+
+						<img src="http://www.qcop.ca/imgs/speakers/<%= picturePath[i] %>" style="width:200px;border-radius:50%;">
+
+
+					<%=}
+				%>
+				
+				<!--
+				<div style="margin-top:14px;margin-bottom:14px;">
+					<img src="./imgs/me.jpg" style="width:200px;float:left;">
+					
+					
+					
+					<p style="float:left;padding:6px 6px;">
+						<span class="speakerName">Keith Weaver</span>
+						<br/>
+						<span class="speakerInfo">Position, Company Name</span><br/>
+						<span class="speakerSM"><a href="#">@kweaver</a></span><br/>
+
+					</p>
+				</div>
+				-->
+			</div>
+			<div class="col-sm-8 col-sm-offset-2 text-center">
+				
+				<h1 class="speaker_title">
+					<%=
+						names
+					%>
+				</h1>
+
+			</div>
+			<div class="col-sm-8 col-sm-offset-2">
+				
+				<h1 class="speaker_position">
+					<%=
+						position
+					%>
+				</h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2">
+		
+				<%=
+					for(var i = 0;i < about.length;i++){
+				%>
+						<p class="speaker_text">
+							<%=
+								about[i];
+							%>
+						</p>
+				<%=
+					}
+				%>
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div style="height:40px;width:100%;"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="./Bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

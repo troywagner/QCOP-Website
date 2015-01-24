@@ -6,6 +6,13 @@ app.set('view engine', 'ejs');//sets default folder to be
 
 app.get('/', routes.index);
 app.get('/speakers', routes.speakers);
+app.get('/speaker/jeff&kyle', routes.speaker_jk);
+app.get('/speaker/jim', routes.speaker_jim);
+app.get('/speaker/ene', routes.speaker_ene);
+app.get('/speaker/dave', routes.speaker_dave);
+app.get('/speaker/andrea', routes.speaker_and);
+
+
 app.get('/attend', routes.attend);
 app.get('/connect', routes.connect);
 
