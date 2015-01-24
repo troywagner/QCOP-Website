@@ -1,0 +1,19 @@
+.outter_wrapper{
+	width: 100%;
+	margin-top: 100px;
+}
+.about_wrapper{
+	width: 100%;
+	background-color: rgba(255,255,255,0.8);
+}
+.about_buffer{
+	width: 97%;
+	margin-right:auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+.about_text{
+	font-size: 18px;
+}

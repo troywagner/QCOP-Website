@@ -5,7 +5,7 @@ exports.index = function(req, res){
 	});
 }
 exports.speakers = function(req, res){
-	res.render('default', {title:'Speakers',
+	res.render('speakers', {title:'Speakers',
 		users: ['Keith','John','Bob']
 	});
 }

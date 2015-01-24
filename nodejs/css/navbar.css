@@ -1,0 +1,62 @@
+.navbar_item{
+	display: block;
+	width: 80px;
+	height: 75px;
+	
+	background-repeat: no-repeat;
+	background-color: transparent;
+	outline: 0;
+	transition: background-position 300ms;
+	-webkit-transition: background-position 300ms;
+	-moz-transition: background-position 300ms;
+	-ms-transition: background-position 300ms;
+	-o-transition: background-position 300ms;
+}
+.navbar_hover_item{
+	height: 75px;
+
+}
+.navBar_logo{
+	height: 45px;
+	margin-top: 0px;
+}
+.navbar_text{
+	height: 35px;
+}
+
+
+#about_item{
+	background-position: 0px -1px;
+	background-image: url(../imgs/ABOUT.JPEG);
+}
+#about_item:hover{
+	background-position: 0px -80px;
+}
+#speakers_item{
+	background-image: url(../imgs/SPEAKERS.JPEG);
+	background-position: 0px -1px;
+}
+#speakers_item:hover{
+	background-position: 0px -80px;
+}
+#sponsors_item{
+	background-image: url(../imgs/SPONSORS.JPEG);
+	background-position: 0px -1px;
+}
+#sponsors_item:hover{
+	background-position: 0px -80px;	
+}
+#tickets_item{
+	background-image: url(../imgs/ATTEND.JPEG);
+	background-position: 0px -1px;
+}
+#tickets_item:hover{
+	background-position:  0px -80px;
+}
+#connect_item{
+	background-image: url(../imgs/CONNECT.JPEG);
+	background-position: 0px -1px;
+}
+#connect_item:hover{
+	background-position: 0px -80px;
+}
