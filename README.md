@@ -26,3 +26,9 @@ Live Site:
 ![Alt text](http://weaverprojects.com/imgs/Projects/qcop2.png "Screenshot 3")
 ![Alt text](http://weaverprojects.com/imgs/Projects/qcop3.png "Screenshot 4")
 ![Alt text](http://weaverprojects.com/imgs/Projects/qcop4.png "Screenshot 5")
+
+
+Team Part:
+
+![Alt text](http://weaverprojects.com/imgs/Projects/qcop5.png "Screenshot 6")
+![Alt text](http://weaverprojects.com/imgs/Projects/qcop6.png "Screenshot 7")
