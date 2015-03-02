@@ -1,0 +1,18 @@
+.phil_wrapper{
+	width: 100%;
+	position: relative;
+	margin-top: 70px;
+	background-color: #F5A9A9;
+
+}
+.phil_img{
+	width: 200px;
+}
+#phil_row{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.phil_text{
+	color: #e25252;
+	font-size: 24px;
+}

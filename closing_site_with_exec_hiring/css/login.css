@@ -1,0 +1,16 @@
+.login_wrapper{
+			width: 200%;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		.login_form{
+			text-align: center;
+		}
+		.btn{
+			padding: 10px 15px;
+			border-radius: 3px;
+			border-style: solid;
+			border-color: #DF013A;
+			background-color: #B40431;
+			color: white;
+		}
