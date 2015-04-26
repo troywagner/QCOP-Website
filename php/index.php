@@ -1,5 +1,6 @@
 <html>
 <head>
+	<meta name="google-site-verification" content="plPV3jFyx2Ni0TPaw4RLHA9W0F0aMQsLyQplC3cLMmg" />
 	<link href='http://fonts.googleapis.com/css?family=Allerta' rel='stylesheet' type='text/css'>
 	<link href="./Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="./css/navbar.css" rel="stylesheet"/>
